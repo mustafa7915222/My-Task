@@ -2,7 +2,6 @@ import 'package:flutter/cupertino.dart';
 import 'package:flutter/material.dart';
 import 'package:test1/screens/edit_task_screen.dart';
 import '../models/task_list.dart';
-import '../screens/task_details.dart';
 import '../utils/constants.dart';
 import '../utils/function.dart';
 
